@@ -32,10 +32,14 @@ The [standard deviation][stdev] for a [raised cosine][cosine-distribution] rando
 
 <!-- <equation class="equation" label="eq:cosine_stdev" align="center" raw="\sigma = s \sqrt{\left({\frac{1}{3}}-{\frac{2}{\pi^{2}}}\right)}" alt="Standard deviation for a raised cosine distribution."> -->
 
-<div class="equation" align="center" data-raw-text="\sigma = s \sqrt{\left({\frac{1}{3}}-{\frac{2}{\pi^{2}}}\right)}" data-equation="eq:cosine_stdev">
+```math
+\sigma = s \sqrt{\left({\frac{1}{3}}-{\frac{2}{\pi^{2}}}\right)}
+```
+
+<!-- <div class="equation" align="center" data-raw-text="\sigma = s \sqrt{\left({\frac{1}{3}}-{\frac{2}{\pi^{2}}}\right)}" data-equation="eq:cosine_stdev">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@591cf9d5c3a0cd3c1ceec961e5c49d73a68374cb/lib/node_modules/@stdlib/stats/base/dists/cosine/stdev/docs/img/equation_cosine_stdev.svg" alt="Standard deviation for a raised cosine distribution.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -216,7 +220,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
