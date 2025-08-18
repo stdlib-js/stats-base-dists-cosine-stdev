@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-28)
+## Unreleased (2025-08-18)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`2a44b1b`](https://github.com/stdlib-js/stdlib/commit/2a44b1b1028e5218e54c6b0677dc319493a5391b) - **test:** use standard deviation instead of stdev _(by Philipp Burckhardt)_
 -   [`2ad245f`](https://github.com/stdlib-js/stdlib/commit/2ad245f8ea17a02a55fb41de90a7d6ee7c738c87) - **bench:** update random value generation [(#7094)](https://github.com/stdlib-js/stdlib/pull/7094) _(by Harsh)_
 -   [`5bed283`](https://github.com/stdlib-js/stdlib/commit/5bed2837d020e3ea6f8452e85b0f7008d4d76b68) - **docs:** replace manual `for` loop in examples [(#7075)](https://github.com/stdlib-js/stdlib/pull/7075) _(by Harsh)_
